@@ -10,7 +10,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class SignupController extends GetxController {
-  TextEditingController usernameController = TextEditingController();
+  TextEditingController usernameController =
+      TextEditingController(text: "hroo");
 
   TextEditingController passwordController = TextEditingController();
   TextEditingController confirmPasswordController = TextEditingController();
