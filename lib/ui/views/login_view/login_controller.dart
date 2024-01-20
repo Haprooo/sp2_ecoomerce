@@ -16,7 +16,6 @@ class LoginController extends GetxController {
 
   // String Username = 'Hassan@gmail.com';
   // String Password = 'P@ssw0rd';
-  void checkfunction() {}
 
   GlobalKey<FormState> formKey = GlobalKey<FormState>();
   RxBool isChecked = false.obs;
