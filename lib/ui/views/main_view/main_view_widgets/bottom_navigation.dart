@@ -1,7 +1,7 @@
-import 'package:e_commerce/core/enums/bottom_navigation_type.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/views/main_view/main_controller.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/nav_item.dart';
+import 'package:sp2_ecoomerce/core/enums/bottom_navigation_type.dart';
+import 'package:sp2_ecoomerce/ui/shared/colors.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_controller.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_view_widgets/nav_item.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

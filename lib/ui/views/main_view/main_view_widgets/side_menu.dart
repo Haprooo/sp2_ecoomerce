@@ -1,7 +1,7 @@
-import 'package:e_commerce/core/data/repository/shared_prefrence_repository.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/views/landing_view/landing_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_item.dart';
+import 'package:sp2_ecoomerce/core/data/repository/shared_prefrence_repository.dart';
+import 'package:sp2_ecoomerce/ui/shared/colors.dart';
+import 'package:sp2_ecoomerce/ui/views/landing_view/landing_view.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_view_widgets/side_item.dart';
 import 'package:flutter/material.dart';
 
 class SideMenu extends StatelessWidget {

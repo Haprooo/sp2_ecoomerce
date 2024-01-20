@@ -1,5 +1,5 @@
-import 'package:e_commerce/core/data/repository/shared_prefrence_repository.dart';
-import 'package:e_commerce/core/enums/request_type.dart';
+import 'package:sp2_ecoomerce/core/data/repository/shared_prefrence_repository.dart';
+import 'package:sp2_ecoomerce/core/enums/request_type.dart';
 
 class NetworkConfig {
   static Map<String, String> getHeaders(

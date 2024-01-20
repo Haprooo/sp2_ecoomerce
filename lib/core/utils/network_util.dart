@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:bot_toast/bot_toast.dart';
-import 'package:e_commerce/core/enums/request_type.dart';
+import 'package:sp2_ecoomerce/core/enums/request_type.dart';
 import 'package:http/http.dart' as http;
 import 'package:path/path.dart' as path;
 import 'package:http_parser/http_parser.dart';

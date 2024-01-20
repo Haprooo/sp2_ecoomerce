@@ -1,4 +1,4 @@
-# e_commerce
+# sp2_ecoomerce
 
 A new Flutter project.
 

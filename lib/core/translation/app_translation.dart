@@ -1,5 +1,5 @@
-import 'package:e_commerce/core/translation/languages/ar_language.dart';
-import 'package:e_commerce/core/translation/languages/en_language.dart';
+import 'package:sp2_ecoomerce/core/translation/languages/ar_language.dart';
+import 'package:sp2_ecoomerce/core/translation/languages/en_language.dart';
 import 'package:get/get.dart';
 
 class AppTranslation extends Translations {

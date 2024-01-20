@@ -1,5 +1,5 @@
-import 'package:e_commerce/core/data/repository/shared_prefrence_repository.dart';
-import 'package:e_commerce/core/enums/bottom_navigation_type.dart';
+import 'package:sp2_ecoomerce/core/data/repository/shared_prefrence_repository.dart';
+import 'package:sp2_ecoomerce/core/enums/bottom_navigation_type.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

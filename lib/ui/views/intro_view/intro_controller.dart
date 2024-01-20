@@ -1,5 +1,5 @@
-import 'package:e_commerce/core/translation/app_translation.dart';
-import 'package:e_commerce/ui/views/landing_view/landing_view.dart';
+import 'package:sp2_ecoomerce/core/translation/app_translation.dart';
+import 'package:sp2_ecoomerce/ui/views/landing_view/landing_view.dart';
 import 'package:get/get.dart';
 
 class IntroController extends GetxController {

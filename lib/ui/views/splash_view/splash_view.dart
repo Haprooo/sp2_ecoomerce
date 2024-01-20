@@ -1,5 +1,5 @@
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/splash_view/splash_controller.dart';
+import 'package:sp2_ecoomerce/ui/shared/utils.dart';
+import 'package:sp2_ecoomerce/ui/views/splash_view/splash_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

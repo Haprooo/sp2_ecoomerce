@@ -1,4 +1,4 @@
-import 'package:e_commerce/app/my_app.dart';
+import 'package:sp2_ecoomerce/app/my_app.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

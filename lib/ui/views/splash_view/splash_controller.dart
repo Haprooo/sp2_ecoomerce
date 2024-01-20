@@ -1,7 +1,7 @@
-import 'package:e_commerce/core/data/repository/shared_prefrence_repository.dart';
-import 'package:e_commerce/ui/views/intro_view/intro_view.dart';
-import 'package:e_commerce/ui/views/landing_view/landing_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_view.dart';
+import 'package:sp2_ecoomerce/core/data/repository/shared_prefrence_repository.dart';
+import 'package:sp2_ecoomerce/ui/views/intro_view/intro_view.dart';
+import 'package:sp2_ecoomerce/ui/views/landing_view/landing_view.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_view.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

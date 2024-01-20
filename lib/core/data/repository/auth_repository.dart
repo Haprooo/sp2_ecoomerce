@@ -1,9 +1,9 @@
 import 'package:dartz/dartz.dart';
-import 'package:e_commerce/core/data/models/common_response.dart';
-import 'package:e_commerce/core/data/models/token_info.dart';
-import 'package:e_commerce/core/data/network/network_config.dart';
-import 'package:e_commerce/core/enums/request_type.dart';
-import 'package:e_commerce/core/utils/network_util.dart';
+import 'package:sp2_ecoomerce/core/data/models/common_response.dart';
+import 'package:sp2_ecoomerce/core/data/models/token_info.dart';
+import 'package:sp2_ecoomerce/core/data/network/network_config.dart';
+import 'package:sp2_ecoomerce/core/enums/request_type.dart';
+import 'package:sp2_ecoomerce/core/utils/network_util.dart';
 
 class AuthRepository {
   Future<Either<String, TokenInfo>> login({

@@ -1,12 +1,12 @@
-import 'package:e_commerce/core/data/repository/shared_prefrence_repository.dart';
-import 'package:e_commerce/core/enums/bottom_navigation_type.dart';
-import 'package:e_commerce/ui/views/main_view/favorite_view/favorite_view.dart';
-import 'package:e_commerce/ui/views/main_view/home_view/home_view.dart';
-import 'package:e_commerce/ui/views/main_view/main_controller.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/bottom_navigation.dart';
-import 'package:e_commerce/ui/views/main_view/main_view_widgets/side_menu.dart';
-import 'package:e_commerce/ui/views/main_view/notifications_view/notifications_view.dart';
-import 'package:e_commerce/ui/views/main_view/setteings_view/settings_view.dart';
+import 'package:sp2_ecoomerce/core/data/repository/shared_prefrence_repository.dart';
+import 'package:sp2_ecoomerce/core/enums/bottom_navigation_type.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/favorite_view/favorite_view.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/home_view/home_view.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_controller.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_view_widgets/bottom_navigation.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/main_view_widgets/side_menu.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/notifications_view/notifications_view.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/setteings_view/settings_view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

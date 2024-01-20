@@ -1,11 +1,11 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dots_indicator/dots_indicator.dart';
-import 'package:e_commerce/core/enums/text_style_type.dart';
-import 'package:e_commerce/core/translation/app_translation.dart';
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/custom_widgets/custom_text.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
-import 'package:e_commerce/ui/views/main_view/home_view/home_controller.dart';
+import 'package:sp2_ecoomerce/core/enums/text_style_type.dart';
+import 'package:sp2_ecoomerce/core/translation/app_translation.dart';
+import 'package:sp2_ecoomerce/ui/shared/colors.dart';
+import 'package:sp2_ecoomerce/ui/shared/custom_widgets/custom_text.dart';
+import 'package:sp2_ecoomerce/ui/shared/utils.dart';
+import 'package:sp2_ecoomerce/ui/views/main_view/home_view/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';

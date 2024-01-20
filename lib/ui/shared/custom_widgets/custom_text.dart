@@ -1,4 +1,4 @@
-import 'package:e_commerce/core/enums/text_style_type.dart';
+import 'package:sp2_ecoomerce/core/enums/text_style_type.dart';
 import 'package:flutter/material.dart';
 
 class CustomText extends StatelessWidget {

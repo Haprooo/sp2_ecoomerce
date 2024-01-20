@@ -1,5 +1,5 @@
-import 'package:e_commerce/ui/shared/colors.dart';
-import 'package:e_commerce/ui/shared/utils.dart';
+import 'package:sp2_ecoomerce/ui/shared/colors.dart';
+import 'package:sp2_ecoomerce/ui/shared/utils.dart';
 import 'package:flutter/material.dart';
 
 class NavItem extends StatelessWidget {

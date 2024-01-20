@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:e_commerce/core/data/models/login_info.dart';
-import 'package:e_commerce/core/data/models/token_info.dart';
-import 'package:e_commerce/main.dart';
+import 'package:sp2_ecoomerce/core/data/models/login_info.dart';
+import 'package:sp2_ecoomerce/core/data/models/token_info.dart';
+import 'package:sp2_ecoomerce/main.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../enums/shared_preference_data_type.dart';

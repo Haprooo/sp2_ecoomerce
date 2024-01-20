@@ -1,5 +1,5 @@
-import 'package:e_commerce/core/enums/text_style_type.dart';
-import 'package:e_commerce/ui/shared/custom_widgets/custom_text.dart';
+import 'package:sp2_ecoomerce/core/enums/text_style_type.dart';
+import 'package:sp2_ecoomerce/ui/shared/custom_widgets/custom_text.dart';
 import 'package:flutter/material.dart';
 
 class NotificationView extends StatefulWidget {
